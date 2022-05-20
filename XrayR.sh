@@ -385,9 +385,9 @@ show_XrayR_version() {
 clear
 show_usage() {
     echo ""
-    echo "------------[Đậu Đậu việt hóa]------------"
+    echo "------------[LTEVN.One việt hóa]------------"
     echo "  Cách sử dụng tập lệnh quản lý XrayR: "
-    echo "------------------------------------------"
+    echo "--------------------------------------------"
     echo "  XrayR              - Hiển thị menu quản trị (nhiều chức năng hơn) "
     echo "  XrayR start        - Khởi động XrayR "
     echo "  XrayR stop         - Dừng XrayR"
@@ -408,7 +408,7 @@ show_menu() {
     echo -e ""
     echo -e "
     Các tập lệnh quản lý phụ trợ XrayR，không hoạt động với docker${plain}
-    ${green}--- [Đậu Đậu việt hóa] ---${plain}
+    ${green}--- [LTEVN.One việt hóa] ---${plain}
     0. Thay đổi cài đặt
 ————————————————————————————————
     1. Cài đặt XrayR
