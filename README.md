@@ -8,7 +8,7 @@ Một khung công tác back-end dựa trên Xray, hỗ trợ các giao thức V2
 
 ## Cài đặt 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/DauDau432/XrayR-release/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/tranvannghia11/Xray/main/install.sh)
 ```
 ## Cấu hình xrayr
 Sử dụng `nano` hoặc `vi` để vào thư mục cấu hình
